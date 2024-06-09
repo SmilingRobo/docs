@@ -1,0 +1,36 @@
+---
+title: Welcome to SmilingRobo
+description: Building the Robo community.
+template: splash
+hero:
+  tagline: Building the Robo community 
+  image:
+    file: ../../assets/logo.png
+  actions:
+    - text: Getting Started
+      link: /gettingstarted
+      icon: right-arrow
+      variant: primary
+    - text: See Models
+      link: /
+      icon: external
+---
+
+import { Card, CardGrid } from '@astrojs/starlight/components';
+
+## Next steps
+
+<CardGrid stagger>
+	<Card title="Development Tools" icon="pencil">
+		Integrated Development Environments (IDEs), debugging tools, and simulation platforms for you.
+	</Card>
+	<Card title="Hosting" icon="add-document">
+		Host your Models and Upload your datasets.
+	</Card>
+	<Card title="Open-source resources" icon="open-book">
+		 Get Models, datasets, and tools for real-world robotics in PyTorch.
+	</Card>
+	<Card title="Contributions" icon="right-arrow">
+		Contribute new components, datasets, and tools.
+	</Card>
+</CardGrid>
