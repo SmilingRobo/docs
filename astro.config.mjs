@@ -6,7 +6,7 @@ import starlight from '@astrojs/starlight';
 
 // https://astro.build/config
 export default defineConfig({
-	site: 'https://legendaryabhi.github.io',
+	site: 'https://smilingrobo.github.io',
   	base: 'smilingrobo',
 	integrations: [
 		starlight({
