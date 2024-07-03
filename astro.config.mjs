@@ -15,15 +15,10 @@ export default defineConfig({
 				github: 'https://github.com/SmilingRobo',
 			},
 			sidebar: [
+				
 				{
-					label: 'Guides',
-					items: [
-						{ label: 'Example Guide', link: '/guides/example/' },
-					],
-				},
-				{
-					label: 'Reference',
-					autogenerate: { directory: 'reference' },
+					label: 'Projects',
+					autogenerate: { directory: 'projects' },
 				},
 			],
 		}),
