@@ -1,6 +1,6 @@
 ---
 title: HumanPlus
-description: A reference page in my new Starlight docs site.
+description: HumanPlus is an open-source humanoid robot developed by researchers at Stanford University.
 ---
 
  ### Humanoid Shadowing and Imitation from Humans
