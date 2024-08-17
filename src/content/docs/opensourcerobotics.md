@@ -43,6 +43,6 @@ To maintain a positive and productive environment, we ask all community members 
 - Be Transparent: Communicate openly and honestly. Transparency fosters trust and improves the quality of our work.
 
 ### Contact Us
-If you have any questions or need assistance, feel free to contact our support team at [Email Us](mailto:smilingroboinc@gmail.com). We're here to help!
+If you have any questions or need assistance, feel free to contact our support team at [Email Us](mailto:support@smilingrobo.com). We're here to help!
 
 Join SmilingRobo today and be a part of the future of robotics. Let's build something amazing together!
