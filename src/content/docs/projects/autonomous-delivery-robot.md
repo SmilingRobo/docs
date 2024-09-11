@@ -3,7 +3,7 @@ title: AUTONOMOUS DELIVERY ROBOT
 description: A delivery robot built for the purpose of document delivery in college campus using ROS framework. The robot can be accessed and used for delivery via a mobile application using ReactJS and Firebase database.
 ---
 
-# AUTONOMOUS DELIVERY ROBOT
+
 
 ## Summary of the project 
 This project is aimed at building an autonomous robot to be used for delivering things for a closed environment like an office, a college campus, etc consisting of multiple buildings. The robot is inspired by food and package delivery robots developed by FedEx, Amazon, Starship, etc. prominently used in the US. 

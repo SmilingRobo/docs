@@ -3,6 +3,8 @@ title: ExoMy in Isaac Gym
 description: Training ExoMy to navigate in an unstructured Mars environment
 ---
 
+Training ExoMy to navigate in an unstructured Mars environment
+
 # Install isaac-rover-mars-gym
 
 <!---<details><summary>Docker (click to expand)</summary>--->
